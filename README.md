@@ -1,1 +1,21 @@
-# cl462.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Landing Page</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding-top: 20%; }
+    a.button {
+      display: inline-block; padding: 12px 20px; background: #25D366; 
+      color: white; text-decoration: none; border-radius: 8px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Page</h1>
+  <p>Click below to chat on WhatsApp</p>
+  <a class="button" href="https://wa.me/60123456789" target="_blank">Chat on WhatsApp</a>
+</body>
+</html>
